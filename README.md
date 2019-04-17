@@ -1,4 +1,4 @@
 # hello-world
 sample repo
 
-This is my forst github tutorial
+This is my first github tutorial
